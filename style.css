@@ -1,0 +1,266 @@
+ 
+.topnav {
+
+      overflow: hidden;
+      position: static;
+    }
+
+.content a  {
+    float:left;
+    color: black;  
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  padding-top: 20px;
+  padding-left: 60px;
+
+}
+.content a:hover {
+     color: lightgreen;
+     text-decoration: underline;
+}
+.logo{
+    float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.in{
+    
+     float: right;
+     padding-top: 17px;
+
+}
+ .as{
+ float: right;
+ padding-top:20px;
+padding-inline: 5px;
+
+}
+
+
+.dropdown{
+    padding-inline: 5px;
+    float: right;
+}
+ .secondwork-row{
+margin-top: 0px;
+ 
+ }
+
+.types {
+    display: flex;
+    padding-top: 30px;
+}
+.first{
+    height: 730px;
+    width: 1000px;
+    background-color: blue;
+    margin-left: 70px;
+    border-radius: 20px;
+}
+    
+    .second {
+        height: 730px;
+        width: 1000px;
+        background-color: aquamarine;
+        margin-left: 90px;
+        border-radius: 20px;
+    }
+
+        .third{
+            height: 730px;
+            width: 1000px;
+            background-color: rgb(77, 56, 214);
+            margin-left: 90px;
+            border-radius: 20px;
+        }
+           
+            .fourth{
+                height: 730px;
+               width: 1000px;
+               background-color: rgb(12, 12, 46);
+               margin-left: 90px;
+               border-radius: 20px;
+              }
+.first p{
+    font-size: 70px;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    line-height: normal;
+}    
+.img b {
+    font-size: 30px;
+     color: antiquewhite;
+}
+ .ex {
+    float: right;
+    padding-right: 20px;
+ }
+  .second h1{
+    font-size: 70px;
+    padding-left: 15px;
+  }
+ .second p{
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 15px;
+ }  
+.for p{
+    font-size: 50px;
+    font-weight: bold;
+}
+  .top b{
+    font-size: 30px;
+}
+.off{
+    float: right;
+    padding-right: 20px;
+    padding-top: 190px;  
+}
+ .third h1{
+    font-size: 70px;
+    padding-left: 15px;
+    color: antiquewhite;
+  }
+.third p{
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 15px;
+    color: antiquewhite;
+}
+ .keep b{
+    font-size: 30px;
+     color: antiquewhite;
+ }
+.fin{
+    float: right;
+ 
+}
+.mop {
+    float: right;
+    padding-right: 10px;
+}
+.fourth p{
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 15px;
+    color: antiquewhite;
+}
+.fourth h1{
+    font-size: 70px;
+    padding-left: 15px;
+    color: antiquewhite;
+  }
+  .so b{
+    font-size: 30px;
+     color: antiquewhite;
+ }
+  .rop {
+    float: right;
+    padding-right: 10px;
+    padding-top: 170px;
+  }
+  .hate{
+ padding-top:300px;
+ padding-left: 300px;
+  }
+  .hate img{
+    float: right;
+    margin-top: -300px;
+  }
+  .sort{
+    padding-left: 300px;
+  }
+  .hate h1{
+    font-weight: bolder;
+    font-size: 60px;
+  }
+  .hate p {
+    font-size: 20px;
+  }
+  .tan{
+  padding-top: 600px;  
+  }
+
+
+  .tan img{
+    float: left;
+    margin-top: -600px;
+    margin-right: 1000px;
+    padding-top: 250px;
+    padding-left: 200px;
+  }
+  .tan h1{
+    font-weight: bolder;
+    font-size: 60px;
+    padding-left: 1100px;
+  }
+  .tan p{
+    font-size: 20px;
+    padding-left: 1100px;
+  }
+  .cat{
+    padding-top: 10px;
+    padding-left: 1100px;
+  }
+  .fate{
+    padding-top:500px;
+    padding-left: 200px;
+     }
+     .fate img{
+       float: right;
+       margin-top: -300px;
+     }
+     .koli{
+       padding-left: 300px;
+     }
+     .fate h1{
+       font-weight: bolder;
+       font-size: 60px;
+     }
+     .fate p {
+       font-size: 20px;
+     }
+     .go{
+        padding-top:500px;
+        padding-left: 400px;
+         }
+         .go img{
+           float: right;
+           margin-top: -300px;
+         }
+         .eat{
+           padding-left: 300px;
+         }
+         .go h1{
+           font-weight: bolder;
+           font-size: 60px;
+         }
+         .go p {
+           font-size: 20px;
+         }
+         .rat{
+            margin-top: 250px;
+            background-color: lightgreen;
+            height: 700px;
+            width: 2000px;
+         }
+      .sin{
+        padding-top: 100px;
+        padding-left: 100px;
+        margin-right: 20px;
+      }
+      .at{
+        color: antiquewhite;
+        padding-left: 20px;
+      }
+      .ul{
+        padding-left: 20px;
+      }
+   
+  
